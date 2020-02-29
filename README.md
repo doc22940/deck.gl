@@ -5,6 +5,7 @@
   <a href="https://travis-ci.com/uber/deck.gl">
     <img src="https://api.travis-ci.com/uber/deck.gl.svg?branch=master" alt="build" />
   </a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fdoc22940%2Fdeck.gl?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdoc22940%2Fdeck.gl.svg?type=shield"/></a>
   <a href="https://npmjs.org/package/deck.gl">
     <img src="https://img.shields.io/npm/dm/deck.gl.svg?style=flat-square" alt="downloads" />
   </a>
@@ -115,3 +116,7 @@ Data sources are listed in each example.
  <img src="https://d98b8t1nnulk5.cloudfront.net/production/images/static/logo.svg" alt="BrowserStack" width="200" />
 </a>
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdoc22940%2Fdeck.gl.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdoc22940%2Fdeck.gl?ref=badge_large)
